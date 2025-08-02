@@ -43,7 +43,7 @@ Researchers, developers, ethicists, philosophers, and curious minds interested i
 
 This project is currently curated and maintained by **Joseph Jabbar**, but community interest is welcome.
 
-- Feel free to open [Issues](https://github.com/your-repo/issues) for discussion or suggestions
+- Feel free to open [Issues](https://github.com/jabbarman/ai-roundtables/issues) for discussion or suggestions
 - Forks and adaptations for other philosophical explorations are encouraged
 
 ## License
