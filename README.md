@@ -18,10 +18,8 @@ How do LLMs handle novel inputs? This roundtable explores failure modes, epistem
 
 ## Planned/Upcoming Roundtables
 
-- **Bias, Fairness, and Accountability in AI**
-- **Emergence and Scaling Laws**
-- **Multimodal Reasoning and Integration**
-- **The Nature of AI Memory and Forgetting**
+- **The Nature of "Intelligence" and "Consciousness"**
+- **Unifying Architectures and Cross-Domain Learning**
 
 *Each of these will follow the same format: a moderated dialogue between three LLMs exploring their capabilities, limitations, and perspectives.*
 
