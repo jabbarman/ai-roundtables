@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Markdown backup files
+*.md~
+
+# Temporary editor files
+*.swp
+*.swo
+*.bak
+
+# System-specific files
+.vscode/
