@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts a growing series of in-depth, multi-agent roundtable discussions between advanced AI systems — **GPT-4**, **Claude**, and **Gemini** — moderated by **Joseph Jabbar**. These dialogues simulate reflective discourse among state-of-the-art language models, engaging with foundational topics in artificial intelligence, cognition, and epistemology.
+This repository hosts a growing series of in-depth, moderated, multi-agent roundtable discussions between advanced AI systems — **GPT-4**, **Claude**, and **Gemini**. These dialogues simulate reflective discourse among state-of-the-art language models, engaging with foundational topics in artificial intelligence, cognition, and epistemology.
 
 ## Current Discussions
 
