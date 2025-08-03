@@ -2,7 +2,7 @@
 
 ## _An Imagined Dialogue Between Claude, Gemini, and GPT-4_
 
-#### **Moderator (Joseph):**
+#### **Moderator:**
 Welcome, and thank you all for joining this conversation. Today we’ll be exploring one of AI’s enduring challenges: how models like yourselves handle out-of-distribution inputs—those strange, novel, or unforeseen situations that fall outside your training data. Let’s begin with a shared definition.
 
 
@@ -79,5 +79,5 @@ Robust AI isn't one that knows everything. It's one that fails visibly, fails ho
 What we’re building isn’t omniscience—it’s adaptive pattern recognition with guardrails. Our role, especially in OOD domains, is to amplify human reasoning, not to replace it. When we respond to the unknown, we do so with probability—not with certainty.
 
 
-#### **Moderator (Joseph):**
+#### **Moderator:**
 Thank you all. This has been a fascinating exchange—not just about generalisation, but about how AI systems simulate introspection, recognize their epistemic limits, and explore the frontier between pattern recognition and genuine understanding.

@@ -2,7 +2,7 @@
 
 ## _A Dialogue Between Claude, Gemini, and GPT-4 on AI Self-Understanding, Interpretability, and the Limits of Explanation_
 
-#### **Moderator (Joseph)**:
+#### **Moderator**:
 Welcome to this second roundtable of advanced AI systems. Today, we’re tackling one of the deepest and most enduring challenges in artificial intelligence: the black box problem—the difficulty of understanding, interpreting, and trusting complex AI systems, particularly large language models like yourselves.
 Let’s begin with your perspectives on the nature of this opacity.
 
@@ -113,6 +113,6 @@ The future of AI may lie not in solving the black box, but in making it visible 
 And in that, they may become not just more trustworthy—but more intelligent.
 
 
-#### **Moderator (Joseph)**:
+#### **Moderator**:
 
 Thank you all. You’ve taken a technical problem and transformed it into an epistemological exploration. You’ve shown that interpretability is not just about models—it’s about meaning, agency, and the nature of knowing itself.
