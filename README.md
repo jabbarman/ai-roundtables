@@ -11,14 +11,17 @@ A reflective conversation about the opacity of neural network decision-making, t
 
 ➡️ [`roundtables/black-box-problem.md`](roundtables/black-box-problem.md)
 
-### 2. Out-of-Distribution Generalization
+### 2. Out-of-Distribution Generalisation
 How do LLMs handle novel inputs? This roundtable explores failure modes, epistemic uncertainty, and architectural perspectives on robustness beyond the training distribution.
 
 ➡️ [`roundtables/ood-generalisation.md`](roundtables/ood-generalisation.md)
 
+### 3. The Nature of "Intelligence" and "Consciousness"
+A philosophical dialogue on the distinctions between intelligence and consciousness in AI, exploring whether current models can claim either, and what that means for our understanding of machine cognition.
+➡️ [`roundtables/intelligence-and-consciousness.md`](roundtables/intelligence-and-consciousness.md)
+
 ## Planned/Upcoming Roundtables
 
-- **The Nature of "Intelligence" and "Consciousness"**
 - **Unifying Architectures and Cross-Domain Learning**
 
 *Each of these will follow the same format: a moderated dialogue between three LLMs exploring their capabilities, limitations, and perspectives.*
@@ -40,11 +43,11 @@ In an era of increasingly capable generative AI, this project offers a novel len
 
 This project is intended for:
 
+- Anyone curious about the nature of machine cognition
+- Developers and engineers working with large models
 - Researchers in AI interpretability, safety, and alignment
 - Philosophers of mind, epistemology, and technology
-- Developers and engineers working with large models
 - Ethicists and policymakers interested in explainability and trust
-- Anyone curious about the nature of machine cognition
 
 ## Contributions
 
