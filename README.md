@@ -18,6 +18,7 @@ How do LLMs handle novel inputs? This roundtable explores failure modes, epistem
 
 ### 3. The Nature of "Intelligence" and "Consciousness"
 A philosophical dialogue on the distinctions between intelligence and consciousness in AI, exploring whether current models can claim either, and what that means for our understanding of machine cognition.
+
 ➡️ [`roundtables/intelligence-and-consciousness.md`](roundtables/intelligence-and-consciousness.md)
 
 ## Planned/Upcoming Roundtables
