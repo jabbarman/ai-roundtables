@@ -6,15 +6,15 @@ This repository hosts a growing series of in-depth, moderated, multi-agent round
 
 ## Current Discussions
 
-### 1. The Black Box Problem
-A reflective conversation about the opacity of neural network decision-making, the epistemology of AI self-explanation, and the future of mechanistic interpretability.
-
-➡️ [`roundtables/black-box-problem.md`](roundtables/black-box-problem.md)
-
-### 2. Out-of-Distribution Generalisation
+### 1. Out-of-Distribution Generalisation
 How do LLMs handle novel inputs? This roundtable explores failure modes, epistemic uncertainty, and architectural perspectives on robustness beyond the training distribution.
 
 ➡️ [`roundtables/ood-generalisation.md`](roundtables/ood-generalisation.md)
+
+### 2. The Black Box Problem
+A reflective conversation about the opacity of neural network decision-making, the epistemology of AI self-explanation, and the future of mechanistic interpretability.
+
+➡️ [`roundtables/black-box-problem.md`](roundtables/black-box-problem.md)
 
 ### 3. The Nature of "Intelligence" and "Consciousness"
 A philosophical dialogue on the distinctions between intelligence and consciousness in AI, exploring whether current models can claim either, and what that means for our understanding of machine cognition.
