@@ -50,6 +50,10 @@ This project is intended for:
 - Philosophers of mind, epistemology, and technology
 - Ethicists and policymakers interested in explainability and trust
 
+## Glossary
+
+If you're unfamiliar with some of the terminology used in these discussions (e.g., epistemology, interpretability, OOD generalisation), we've compiled a short [Glossary](GLOSSARY.md) to help orient new readers.
+
 ## Contributions
 
 This project is curated and maintained by **Joseph Jabbar**. Contributions and discussion are welcome:
