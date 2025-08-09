@@ -21,11 +21,10 @@ A philosophical dialogue on the distinctions between intelligence and consciousn
 
 ➡️ [`roundtables/intelligence-and-consciousness.md`](roundtables/intelligence-and-consciousness.md)
 
-## Planned/Upcoming Roundtables
+### 4. Unifying Architectures and Cross-Domain Learning
+A capstone dialogue examining the potential and challenges of creating AI systems that seamlessly integrate knowledge and reasoning across multiple modalities. This discussion addresses conceptual coherence, causal grounding, and the architectural principles that could bridge traditionally siloed domains, while exploring the governance and safety implications of such unified systems.
 
-- **Unifying Architectures and Cross-Domain Learning**
-
-*Each of these will follow the same format: a moderated dialogue between three LLMs exploring their capabilities, limitations, and perspectives.*
+➡️ [`roundtables/unifying-architectures-and-cross-domain-learning.md`](roundtables/unifying-architectures-and-cross-domain-learning.md)
 
 ## Purpose
 
